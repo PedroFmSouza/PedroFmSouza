@@ -1,210 +1,396 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          HERO BANNER                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                          TÍTULO PRINCIPAL                          -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0D7A8A,100:C9A02C&height=220&section=header&text=Pedro%20Ferreira&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Backend%20em%20produ%C3%A7%C3%A3o%20%E2%80%A2%20Builder&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=1&pause=999999&color=F5C842&center=true&vCenter=true&width=900&height=80&lines=PEDRO+FERREIRA" alt="Pedro Ferreira"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00D4AA&center=true&vCenter=true&width=720&lines=%3E+booting+pedro.exe+...;%3E+stack%3A+Java+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+SQL;%3E+APIs+rodando+em+ind%C3%BAstria+real+%E2%9C%85;%3E+TCC%3A+Rhabbits+%E2%80%94+RPG+de+h%C3%A1bitos+%F0%9F%90%B0%E2%9A%94%EF%B8%8F;%3E+sempre+aprendendo.+sempre+construindo.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=720&lines=%E2%97%86+CLASSE%3A+ENGENHEIRO+DE+COMPUTA%C3%87%C3%83O+%E2%97%86;%E2%97%86+SUBCLASSE%3A+BACKEND+%2F+API+CRAFTSMAN+%E2%97%86;%E2%97%86+ALINHAMENTO%3A+CA%C3%93TICO+CONSTRUTOR+%E2%97%86;%E2%97%86+SERVIDOR%3A+PARACATU%2C+MG+%F0%9F%87%A7%F0%9F%87%B7+%E2%97%86" alt="subtitle"/>
 
 <br>
 
-<a href="mailto:pedroferreira.dev@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/SEU_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Paracatu_MG-0D7A8A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+`▰▰▰▰▰▰▰▰▰▱▱` **`LEVEL 6 · JR DEV · 80% → MID`**
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
-## ⚡ TL;DR
+## ◈ FICHA DE PERSONAGEM
 
-Estagiário de desenvolvimento na **Coopervap** com **APIs rodando em ambiente industrial real** (linha de produção de ração + sistema de votação corporativa). Cursando Engenharia de Computação na **UEMG** (formando Dez/2026) e construindo o **Rhabbits** — meu TCC: um RPG mobile que transforma hábitos em XP. Backend é minha praia, mas vou onde o problema mandar ir.
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║  ▓                                                            ▓  ║
+║  ▓   NOME       ▸  Pedro Ferreira Moreira de Souza            ▓  ║
+║  ▓   GUILDA     ▸  Coopervap (estagiário desenvolvimento)     ▓  ║
+║  ▓   ACADEMIA   ▸  UEMG · Eng. Computação · Dez/2026          ▓  ║
+║  ▓   MISSÃO     ▸  Construir software que roda em produção    ▓  ║
+║  ▓                                                            ▓  ║
+║  ▓   ╭─ ATRIBUTOS ──────────────────────────────────────╮     ▓  ║
+║  ▓   │  BACKEND       ▰▰▰▰▰▰▰▰▱▱   80                  │     ▓  ║
+║  ▓   │  DATABASES     ▰▰▰▰▰▰▰▱▱▱   70                  │     ▓  ║
+║  ▓   │  MOBILE        ▰▰▰▰▰▰▱▱▱▱   60                  │     ▓  ║
+║  ▓   │  FRONTEND      ▰▰▰▰▰▱▱▱▱▱   50                  │     ▓  ║
+║  ▓   │  DEVOPS        ▰▰▰▱▱▱▱▱▱▱   30                  │     ▓  ║
+║  ▓   │  CAFÉ          ▰▰▰▰▰▰▰▰▰▰   MAX                 │     ▓  ║
+║  ▓   ╰──────────────────────────────────────────────────╯     ▓  ║
+║  ▓                                                            ▓  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-> Não estou aqui pra parecer dev. Estou aqui pra entregar.
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
----
+## ◈ STATUS DO HERÓI
 
-## 🚀 Em Produção Agora
-
-> *Código que roda em ambiente real, com pessoas reais dependendo dele.*
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### ⚙️ API CIPA · Coopervap
-**Sistema de votação anual da CIPA** integrado ao app institucional da cooperativa.
-
-`Python` · `ADVPL` · `REST` · `BD Corporativo`
-
-🟢 **Em produção** — usado por colaboradores reais
+🟢 **HP**
+`▰▰▰▰▰▰▰▰▰▱`
+**90 / 100**
+<sub>online & buildando</sub>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🖨️ API Nota Térmica · Coopervap
-**Emissão de nota térmica** na fábrica de ração + terminal de consulta veterinária.
+🔵 **MANA**
+`▰▰▰▰▰▰▰▱▱▱`
+**70 / 100**
+<sub>focus mode</sub>
 
-`Python` · `ADVPL` · `Sistemas Internos` · `SQL`
+</td>
+<td align="center" width="33%">
 
-🟢 **Em produção** — rodando na linha de fabricação
+🟡 **XP**
+`▰▰▰▰▰▰▰▰▱▱`
+**80 / 100**
+<sub>próximo: mid-level</sub>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🎯 Main Quest — Rhabbits (TCC)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
+
+## ◈ INVENTÁRIO · ARMAS EQUIPADAS
+
+> *Itens forjados em batalhas reais. Cada um tem história.*
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-### 🐰 *"E se cada hábito te desse XP, ouro e loot?"*
-
-**Rhabbits** é meu TCC: um app mobile **offline-first** que transforma hábitos saudáveis, tarefas e estudos em mecânicas de RPG. Você completa a tarefa → ganha XP → evolui um personagem customizável → desbloqueia equipamentos.
-
-A ideia veio de uma frustração honesta: apps de produtividade são chatos, e games são viciantes. Por que não juntar?
-
-**Desafios técnicos que estou resolvendo:**
-- 🔄 Arquitetura **offline-first** com sincronização posterior
-- 🎮 Sistema de **gamificação** (XP, badges, leaderboards, drops)
-- 🧙 **Personagem dinâmico** com progressão e equipamentos
-- 📱 UI fluida em **Flutter** com persistência local
+### ⚔️ `Espada Java` <kbd>RARO</kbd>
+```
+DANO         ████████░░  80
+DURABILIDADE ████████░░  alta
+TIPO         orientado a objetos
+```
+*Sempre afiada. Nunca falha em runtime.*
 
 </td>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-projeto:    Rhabbits
-tipo:       TCC · UEMG
-status:     🟡 em dev
-stack:
-  - Flutter
-  - SQLite
-  - OOP
-  - Modular
-público:    estudantes
-            e gamers
-            cansados de
-            apps chatos
-deadline:   Dez/2026
+### 🐍 `Adaga Python` <kbd>ÉPICO</kbd>
+```
+DANO         █████████░  90
+VELOCIDADE   █████████░  altíssima
+TIPO         scripts & APIs
+```
+*Cortou meu primeiro endpoint em produção.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ `Escudo SQL` <kbd>RARO</kbd>
+```
+DEFESA       ███████░░░  70
+PERSISTÊNCIA ██████████  permanente
+TIPO         relacional
+```
+*Protege os dados. Fala a língua do banco.*
+
+</td>
+<td width="50%" valign="top">
+
+### 🏹 `Arco Flutter` <kbd>INCOMUM</kbd>
+```
+ALCANCE      ██████████  cross-platform
+PRECISÃO     ███████░░░  70
+TIPO         mobile dual-target
+```
+*Acerta Android e iOS no mesmo tiro.*
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📜 Ver inventário completo</b></summary>
+
+<br>
+
+| Item | Tipo | Status |
+|:--|:--|:-:|
+| `Spring Boot` | Magia de invocação backend | 🟢 |
+| `JavaFX` | Talismã de interface desktop | 🟢 |
+| `JavaScript` | Pergaminho client-side | 🟢 |
+| `HTML5 + CSS3` | Tinta & pincel de estrutura | 🟢 |
+| `MySQL` | Cofre relacional | 🟢 |
+| `SQLite` | Cofre portátil | 🟢 |
+| `ADVPL` | Linguagem ancestral · sistemas legados | 🟢 |
+| `Git + GitHub` | Máquina do tempo | 🟢 |
+| `Postman` | Lente de inspeção de APIs | 🟢 |
+
+</details>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
+
+## ◈ QUEST LOG
+
+<table>
+<tr>
+<td colspan="2">
+
+### 🟡 ★ MAIN QUEST · `Rhabbits`
+**TCC · UEMG · Deadline: Dez/2026**
+
+> *"E se cada hábito te desse XP, ouro e loot?"*
+
+App mobile **offline-first** que transforma hábitos em mecânicas de RPG. Tarefas viram XP, evolução vira personagem, persistência vira drop.
+
+```
+PROGRESSO     ▰▰▰▰▰▱▱▱▱▱  50%
+DIFICULDADE   ★★★★☆
+RECOMPENSA    Diploma · portfólio · projeto autoral
+STACK         Flutter · SQLite · OOP · Arquitetura Modular
+```
+
+**Sub-objetivos:**
+- [x] Modelagem de dados e arquitetura modular
+- [x] CRUD de hábitos e tarefas
+- [ ] Sistema de XP, level e progressão
+- [ ] Personagem dinâmico com equipamentos
+- [ ] Sincronização offline-first
+- [ ] Polimento de UI e drops
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 ✓ SIDE QUEST · `API CIPA`
+**Coopervap · Em produção**
+
+Sistema de votação anual da CIPA integrado ao app institucional.
+
+```
+STATUS       ✅ deployed
+DIFICULDADE  ★★★☆☆
+STACK        Python · ADVPL · REST
+```
+
+**Loot obtido:** primeiro sistema corporativo em produção real.
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 ✓ SIDE QUEST · `API Nota Térmica`
+**Coopervap · Em produção**
+
+Emissão de nota térmica + terminal de consulta veterinária na fábrica de ração.
+
+```
+STATUS       ✅ deployed
+DIFICULDADE  ★★★☆☆
+STACK        Python · ADVPL · BD interno
+```
+
+**Loot obtido:** código rodando em linha industrial real.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### ⚪ ✓ COMPLETED · `Sistema de Gerenciamento de Estoque`
+
+Aplicação **desktop** com interface fluida e arquitetura em camadas (UI / Lógica / Dados). CRUD completo, persistência relacional, código organizado.
+
+```
+STATUS       ✅ concluído     STACK    Java · JavaFX · SQL
+DIFICULDADE  ★★☆☆☆          LOOT     Fundamentos sólidos de OOP em projeto real
 ```
 
 </td>
 </tr>
 </table>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
-## 🛠️ Stack
-
-<div align="center">
-
-**Backend & Linguagens**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ADVPL](https://img.shields.io/badge/ADVPL-005AA0?style=for-the-badge&logo=protocols&logoColor=white)
-
-**Mobile & Frontend**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados & Ferramentas**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📦 Outros Projetos
-
-<details>
-<summary><b>📊 Sistema de Gerenciamento de Estoque</b> — <code>Java · JavaFX · SQL</code></summary>
-<br>
-
-Aplicação **desktop** com interface interativa e persistência em banco relacional. Arquitetura organizada em camadas (UI / Lógica / Dados), CRUD completo e foco em código limpo e manutenível.
-
-**Tecnologias:** Java · JavaFX · MySQL · POO · Arquitetura em camadas
-**Status:** ✅ Concluído
-
-</details>
-
-<details>
-<summary><b>🔮 Mais projetos</b> — <code>em construção</code></summary>
-<br>
-
-Constantemente experimentando coisas novas. Dá uma olhada nos repositórios fixados acima ou me chama pra trocar ideia sobre algum.
-
-</details>
-
----
-
-## 📊 Stats
+## ◈ ESTATÍSTICAS DO SERVIDOR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4AA&icon_color=C9A02C&text_color=CCCCCC&bg_color=0D1117&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4AA&text_color=CCCCCC&bg_color=0D1117&langs_count=8"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&ring=00D4AA&fire=C9A02C&currStreakLabel=00D4AA&background=0D1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5C842&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=F5C842&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&ring=F5C842&fire=00D4AA&currStreakLabel=F5C842&background=0D1117"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
-## 🎮 Now Playing
+## ◈ CONQUISTAS
 
-```yaml
-🔨 construindo:    Rhabbits — sistema de progressão e drops
-📚 estudando:      Arquitetura offline-first · Padrões de sync
-🧪 explorando:     Spring Boot mais a fundo · Clean Architecture
-☕ trabalhando:    Mantendo APIs em produção na Coopervap
-🎯 próximo boss:   Mid-level developer
+<table>
+<tr>
+<td align="center" width="25%">
+
+🏆
+**FIRST DEPLOY**
+<sub>API em produção real</sub>
+`+500 XP`
+
+</td>
+<td align="center" width="25%">
+
+⚙️
+**FULL STACK**
+<sub>Backend + Mobile + DB</sub>
+`+300 XP`
+
+</td>
+<td align="center" width="25%">
+
+🔥
+**INDUSTRIAL CODE**
+<sub>Código em linha de fabricação</sub>
+`+700 XP`
+
+</td>
+<td align="center" width="25%">
+
+🧙
+**API ARCHITECT**
+<sub>Endpoints REST funcionais</sub>
+`+400 XP`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+🏗️
+**BUILDER**
+<sub>Constrói sem ser mandado</sub>
+`+250 XP`
+
+</td>
+<td align="center" width="25%">
+
+🌎
+**LOCAL HERO**
+<sub>Dev paracatuense</sub>
+`+200 XP`
+
+</td>
+<td align="center" width="25%">
+
+🔒
+**MID-LEVEL**
+<sub>em progresso · 80%</sub>
+`???`
+
+</td>
+<td align="center" width="25%">
+
+🔒
+**OPEN SOURCE**
+<sub>quest disponível</sub>
+`???`
+
+</td>
+</tr>
+</table>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
+
+## ◈ CÓDIGO DE HONRA
+
+```diff
++ Construo coisas que rodam. Endpoint feio funcionando > arquitetura linda no Figma.
++ Aprendo no fogo. Primeira API entrou numa fábrica — debugar com gente esperando ensina rápido.
++ Tudo é stack. Backend, mobile, banco, legacy — vou onde o problema estiver.
+- Não persigo perfeição. Persigo deploy.
+- Não espero ordem. Construo enquanto outros planejam.
 ```
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
-## 💭 Filosofia
+## ◈ NOW PLAYING
 
-> **Construo coisas que rodam.** Prefiro um endpoint feio que funciona em produção a uma arquitetura linda no Figma.
-> **Aprendo no fogo.** Minha primeira API entrou numa fábrica de ração — debugar com gente esperando ensina rápido.
-> **Tudo é stack.** Backend, mobile, banco, integração legacy — vou onde o problema estiver.
+```yaml
+🎮  current_quest:    Rhabbits — sistema de progressão e drops
+📚  studying:         Arquitetura offline-first · Padrões de sync
+🧪  experimenting:    Spring Boot avançado · Clean Architecture
+☕  maintaining:      APIs em produção @ Coopervap
+🎯  next_boss:        Mid-level Developer (80% XP)
+🎵  background_ost:   lo-fi + trilha de Hollow Knight
+```
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
+
+## ◈ PORTAIS DE COMUNICAÇÃO
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A02C,50:0D7A8A,100:0D1117&height=110&section=footer" width="100%"/>
+<a href="mailto:pedroferreira.dev@hotmail.com">
+<img src="https://img.shields.io/badge/✉️_RAVEN_(email)-D14836?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/🌐_GUILD_HALL_(linkedin)-0077B5?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://github.com/SEU_USERNAME">
+<img src="https://img.shields.io/badge/⚒️_FORGE_(github)-100000?style=for-the-badge&logoColor=white"/>
+</a>
 
-```bash
-$ echo "obrigado pela visita."
-$ git commit -m "mais um passo"
-$ git push origin main
-```
+<br><br>
 
-*"Um commit por dia afasta o burnout. Talvez."* 🧙
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME&left_color=0D7A8A&right_color=C9A02C"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME&left_text=AVENTUREIROS&left_color=0D1117&right_color=F5C842"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║   "PRESS F TO PAY RESPECT TO PEOPLE WHO READ TILL     ║
+║    THE END. AGORA VAI ESCREVER CÓDIGO."               ║
+║                                                       ║
+║              ─ Pedro, Lvl 6 Engineer                  ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C842,50:0D7A8A,100:0D1117&height=120&section=footer&reversal=true" width="100%"/>
