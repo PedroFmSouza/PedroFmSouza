@@ -269,7 +269,7 @@ DIFICULDADE  ★★☆☆☆          LOOT     Fundamentos sólidos de OOP em pr
 <table>
 <tr>
 <td>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5C842&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroFmSouza&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5C842&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117&count_private=true"/>
 </td>
 <td>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=F5C842&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
