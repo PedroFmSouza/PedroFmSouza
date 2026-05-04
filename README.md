@@ -121,8 +121,8 @@ Drop:   CRUD completo · Interface fluida · Código organizado
 
 <br/><br/>
 
-<!-- SNAKE — descomentar após configurar o GitHub Action (instruções abaixo) -->
-<!-- <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg"/> -->
+
+<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
