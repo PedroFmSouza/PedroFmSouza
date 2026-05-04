@@ -272,12 +272,12 @@ DIFICULDADE  ★★☆☆☆          LOOT     Fundamentos sólidos de OOP em pr
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroFmSouza&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5C842&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117&count_private=true"/>
 </td>
 <td>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=F5C842&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFmSouza&layout=compact&theme=tokyonight&hide_border=true&title_color=F5C842&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
 </td>
 </tr>
 </table>
 
-<img height="170" src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&ring=F5C842&fire=00D4AA&currStreakLabel=F5C842&background=0D1117"/>
+<img height="170" src="https://streak-stats.demolab.com?user=PedroFmSouza&theme=tokyonight&hide_border=true&ring=F5C842&fire=00D4AA&currStreakLabel=F5C842&background=0D1117"/>
 
 </div>
 
@@ -299,29 +299,29 @@ DIFICULDADE  ★★☆☆☆          LOOT     Fundamentos sólidos de OOP em pr
 
 > *Toda noite à meia-noite, a serpente devora minhas contribuições do dia. Game running 24/7.*
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%"/>
+<img src="https://raw.githubusercontent.com/PedroFmSouza/PedroFmSouza/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%"/>
 
 <br><br>
 
 ### 🏅 `RESUMO DA TEMPORADA`
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=tokyonight" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroFmSouza&theme=tokyonight" width="98%"/>
 
 <table>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USERNAME&theme=tokyonight" alt="repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroFmSouza&theme=tokyonight" alt="repos per language"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USERNAME&theme=tokyonight" alt="most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroFmSouza&theme=tokyonight" alt="most commit language"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USERNAME&theme=tokyonight" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroFmSouza&theme=tokyonight" alt="stats"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USERNAME&theme=tokyonight&utcOffset=-3" alt="productive time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroFmSouza&theme=tokyonight&utcOffset=-3" alt="productive time"/>
 </td>
 </tr>
 </table>
@@ -440,13 +440,13 @@ DIFICULDADE  ★★☆☆☆          LOOT     Fundamentos sólidos de OOP em pr
 <a href="https://linkedin.com/in/SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/🌐_GUILD_HALL_(linkedin)-0077B5?style=for-the-badge&logoColor=white"/>
 </a>
-<a href="https://github.com/SEU_USERNAME">
+<a href="https://github.com/PedroFmSouza">
 <img src="https://img.shields.io/badge/⚒️_FORGE_(github)-100000?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME&left_text=AVENTUREIROS&left_color=0D1117&right_color=F5C842"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PedroFmSouza.PedroFmSouza&left_text=AVENTUREIROS&left_color=0D1117&right_color=F5C842"/>
 
 </div>
 
