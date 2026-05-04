@@ -1,14 +1,3 @@
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    INITIATING BOOT SEQUENCE...               ║
-║  > Loading profile: PedroFerreira.exe                        ║
-║  > Class: Software Engineer    Level: Jr (grinding to Mid)   ║
-║  > Status: [████████░░] 80% — Eng. Computação @ UEMG        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 # Pedro Ferreira `<dev />`
 
 ### 🧙 Backend Adventurer · API Craftsman · Habit Gamification Architect
@@ -87,7 +76,7 @@ pedro = {
 Um aplicativo mobile que transforma hábitos saudáveis em mecânicas de RPG. Complete tarefas → ganhe XP → evolua seu personagem. Porque a vida devia ter sistema de progressão.
 
 ```
-Stack:  Java · MitraAI · SQL · OOP · Arquitetura Modular
+Stack:  Flutter · SQLite · OOP · Arquitetura Modular
 Status: 🟡 Em desenvolvimento (TCC @ UEMG)
 Drop:   Sistema de gamificação · CRUD completo · BD relacional
 ```
