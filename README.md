@@ -262,20 +262,69 @@ DIFICULDADE  ★★☆☆☆          LOOT     Fundamentos sólidos de OOP em pr
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
-## ◈ ESTATÍSTICAS DO SERVIDOR
+## ◈ ESTATÍSTICAS DO HERÓI
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5C842&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=F5C842&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
+<table>
+<tr>
+<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5C842&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117&count_private=true"/>
+</td>
+<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=F5C842&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
+</td>
+</tr>
+</table>
+
+<img height="170" src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&ring=F5C842&fire=00D4AA&currStreakLabel=F5C842&background=0D1117"/>
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
+
+## ◈ REGISTRO DE BATALHAS
+
+> *Cada commit é um golpe. Cada PR, uma vitória. Cada contribuição registrada na linha do tempo do servidor.*
+
+<div align="center">
+
+### 📈 `LINHA DO TEMPO DE CONTRIBUIÇÕES`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=F5C842&line=00D4AA&point=F5C842&area=true&hide_border=true&custom_title=Atividade%20no%20servidor%20%E2%80%94%20%C3%BAltimos%20meses" alt="Activity Graph" width="98%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&ring=F5C842&fire=00D4AA&currStreakLabel=F5C842&background=0D1117"/>
+### 🐍 `SNAKE EATING CONTRIBUTIONS`
+
+> *Toda noite à meia-noite, a serpente devora minhas contribuições do dia. Game running 24/7.*
+
+<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+### 🏅 `RESUMO DA TEMPORADA`
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=tokyonight" width="98%"/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USERNAME&theme=tokyonight" alt="repos per language"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USERNAME&theme=tokyonight" alt="most commit language"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USERNAME&theme=tokyonight" alt="stats"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USERNAME&theme=tokyonight&utcOffset=-3" alt="productive time"/>
+</td>
+</tr>
+</table>
 
 </div>
 
