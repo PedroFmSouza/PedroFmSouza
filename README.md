@@ -79,79 +79,104 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
-## ◈ INVENTÁRIO · ARMAS EQUIPADAS
+## ◈ ÁRVORE DE HABILIDADES
 
-> *Itens forjados em batalhas reais. Cada um tem história.*
+> *Stack completa, organizada por especialização.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚔️ `Espada Java` <kbd>RARO</kbd>
+### ⚔️ `BACKEND & LINGUAGENS`
+
 ```
-DANO         ████████░░  80
-DURABILIDADE ████████░░  alta
-TIPO         orientado a objetos
+Java          ▰▰▰▰▰▰▰▰▱▱   80
+Python        ▰▰▰▰▰▰▰▰▰▱   90
+Spring Boot   ▰▰▰▰▰▰▱▱▱▱   60
+ADVPL         ▰▰▰▰▰▰▰▱▱▱   70
+JavaScript    ▰▰▰▰▰▰▱▱▱▱   60
 ```
-*Sempre afiada. Nunca falha em runtime.*
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 `Adaga Python` <kbd>ÉPICO</kbd>
+### 🛡️ `BANCO DE DADOS`
+
 ```
-DANO         █████████░  90
-VELOCIDADE   █████████░  altíssima
-TIPO         scripts & APIs
+SQL           ▰▰▰▰▰▰▰▰▱▱   80
+MySQL         ▰▰▰▰▰▰▰▱▱▱   70
+SQLite        ▰▰▰▰▰▰▰▱▱▱   70
+Modelagem     ▰▰▰▰▰▰▰▱▱▱   70
+Integração    ▰▰▰▰▰▰▰▰▱▱   80
 ```
-*Cortou meu primeiro endpoint em produção.*
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ `Escudo SQL` <kbd>RARO</kbd>
+### 🏹 `MOBILE & FRONTEND`
+
 ```
-DEFESA       ███████░░░  70
-PERSISTÊNCIA ██████████  permanente
-TIPO         relacional
+Flutter       ▰▰▰▰▰▰▰▱▱▱   70
+JavaFX        ▰▰▰▰▰▰▰▱▱▱   70
+HTML5 / CSS3  ▰▰▰▰▰▰▱▱▱▱   60
+UI / UX       ▰▰▰▰▰▱▱▱▱▱   50
 ```
-*Protege os dados. Fala a língua do banco.*
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏹 `Arco Flutter` <kbd>INCOMUM</kbd>
+### 🧰 `FERRAMENTAS & WORKFLOW`
+
 ```
-ALCANCE      ██████████  cross-platform
-PRECISÃO     ███████░░░  70
-TIPO         mobile dual-target
+Git / GitHub  ▰▰▰▰▰▰▰▰▱▱   80
+Postman       ▰▰▰▰▰▰▰▰▱▱   80
+APIs REST     ▰▰▰▰▰▰▰▰▱▱   80
+Webhooks      ▰▰▰▰▰▰▱▱▱▱   60
 ```
-*Acerta Android e iOS no mesmo tiro.*
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>📜 Ver inventário completo</b></summary>
+<div align="center">
 
-<br>
+**🎯 Especialização principal:** `Backend · APIs REST · Integração com sistemas legados`
 
-| Item | Tipo | Status |
-|:--|:--|:-:|
-| `Spring Boot` | Magia de invocação backend | 🟢 |
-| `JavaFX` | Talismã de interface desktop | 🟢 |
-| `JavaScript` | Pergaminho client-side | 🟢 |
-| `HTML5 + CSS3` | Tinta & pincel de estrutura | 🟢 |
-| `MySQL` | Cofre relacional | 🟢 |
-| `SQLite` | Cofre portátil | 🟢 |
-| `ADVPL` | Linguagem ancestral · sistemas legados | 🟢 |
-| `Git + GitHub` | Máquina do tempo | 🟢 |
-| `Postman` | Lente de inspeção de APIs | 🟢 |
-
-</details>
+</div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F5C842,100:0D1117&height=4)
 
