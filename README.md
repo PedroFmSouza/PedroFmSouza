@@ -114,21 +114,6 @@ Status: ✅ Concluído
 Drop:   CRUD completo · Interface fluida · Código organizado
 ```
 
----
-
-## 📊 Stats do Servidor
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&bg_color=0D1117)](https://github.com/SEU_USERNAME)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4AA&text_color=FFFFFF&bg_color=0D1117)](https://github.com/SEU_USERNAME)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 📖 Skill Tree — Conhecimento
 
